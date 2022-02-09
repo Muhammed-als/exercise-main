@@ -1,0 +1,32 @@
+﻿/**
+ * MoonWorld Example for use during the VOP exam F15
+ * @author erso   Created on 15-05-2015, 10:19:06
+ */
+public class MoonWorld {
+
+    public MoonWorld() {
+        System.out.println("MoonWorld");
+    }
+
+
+    public static void main(String[] args) {
+        MoonWorld helloWorld = new MoonWorld();
+    }
+}
+
+﻿/**
+ * MoonWorld Example for use during the VOP exam F15
+ * @author erso   Created on 15-05-2015, 10:19:06
+ */
+public class MoonWorld {
+
+    public MoonWorld() {
+        System.out.println("MoonWorld");
+    }
+
+
+    public static void main(String[] args) {
+        MoonWorld helloWorld = new MoonWorld();
+    }
+}
+
